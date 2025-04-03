@@ -20,7 +20,7 @@
   "id": "3",
   "name": "KIN-DIRECT TV",
   "description": "1503",
-  "live_url": "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u",
+  "live_url": "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8",
   "thumbnail": "https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg",
   "categorie": "SPORTS"
   },

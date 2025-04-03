@@ -167,7 +167,7 @@
   "live_url": "http://51.254.199.122:8080/DigitalCongoTV/index.m3u8",
   "thumbnail": "https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo",
   "categorie": "SPORTS"
-  }
+  },
   "21":{
   "id": "22",
   "name": "DER-TV",
@@ -175,7 +175,7 @@
   "live_url": "https://stream.berosat.live:19360/der-tv/der-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzc3NDIyNjVf/dertv.jpg",
   "categorie": "SPORTS"
-  }
+  },
   "22":{
   "id": "23",
   "name": "MKV-TV",

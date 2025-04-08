@@ -247,13 +247,5 @@
   "live_url": "http://51.254.199.122:8080/RTVS1/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODAxMTYyMzdf/rtvs.png",
   "categorie": "SPORTS"
-  },
-  "31":{
-  "id": "32",
-  "name": "RTVS 1",
-  "description": "1532",
-  "live_url": "http://51.254.199.122:8080/e-cableRTNC3/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODAxMTYyMzZf/rtnc3.jpeg",
-  "categorie": "SPORTS"
   }
 }

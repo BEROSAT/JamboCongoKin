@@ -223,5 +223,37 @@
   "live_url": "https://stream.berosat.live:19360/tele-province/tele-province.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzY4MTkwNTJf/teleprovincewhite.jpg",
   "categorie": "SPORTS"
+  },
+  "28":{
+  "id": "29",
+  "name": "RTGA",
+  "description": "1529",
+  "live_url": "http://51.254.199.122:8080/RTGA/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODAxMTYyMzJf/rtga.jpeg",
+  "categorie": "SPORTS"
+  },
+  "29":{
+  "id": "30",
+  "name": "KIN 24 TV",
+  "description": "1530",
+  "live_url": "http://51.254.199.122:8080/kin24/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODAxMTYyMzBf/kin24.jpeg",
+  "categorie": "SPORTS"
+  },
+  "30":{
+  "id": "31",
+  "name": "RTVS 1",
+  "description": "1531",
+  "live_url": "http://51.254.199.122:8080/RTVS1/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODAxMTYyMzdf/rtvs.png",
+  "categorie": "SPORTS"
+  },
+  "31":{
+  "id": "32",
+  "name": "RTVS 1",
+  "description": "1532",
+  "live_url": "http://51.254.199.122:8080/e-cableRTNC3/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODAxMTYyMzZf/rtnc3.jpeg",
+  "categorie": "SPORTS"
   }
 }

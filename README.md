@@ -247,5 +247,13 @@
   "live_url": "http://51.254.199.122:8080/RTVS1/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODAxMTYyMzdf/rtvs.png",
   "categorie": "SPORTS"
+  },
+  "31":{
+  "id": "32",
+  "name": "LIGHT ECO TV",
+  "description": "1532",
+  "live_url": "https://vdo.pro-fhi.net:3761/hybrid/play.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg",
+  "categorie": "SPORTS"
   }
 }

@@ -255,7 +255,7 @@
   "live_url": "https://vdo.pro-fhi.net:3761/hybrid/play.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg",
   "categorie": "SPORTS"
-  }
+  },
   "32":{
   "id": "33",
   "name": "RTNC 3",

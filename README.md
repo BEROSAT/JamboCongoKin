@@ -256,4 +256,20 @@
   "thumbnail": "https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg",
   "categorie": "SPORTS"
   }
+  "32":{
+  "id": "33",
+  "name": "RTNC 3",
+  "description": "1533",
+  "live_url": "http://51.254.199.122:8080/e-cableRTNC3/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODAxMTYyMzZf/rtnc3.jpeg",
+  "categorie": "SPORTS"
+  },
+  "33":{
+  "id": "34",
+  "name": "EMB MISSION TV",
+  "description": "1534",
+  "live_url": "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg",
+  "categorie": "SPORTS"
+  }
 }

@@ -252,7 +252,7 @@
   "id": "32",
   "name": "LIGHT ECO TV",
   "description": "1532",
-  "live_url": "https://vdo.pro-fhi.net:3761/hybrid/play.m3u8",
+  "live_url": "https://vdo2.pro-fhi.net:3740/hybrid/play.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg",
   "categorie": "SPORTS"
   },

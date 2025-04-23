@@ -279,7 +279,15 @@
   "live_url": "https://stream.berosat.live:19360/malebo-movies/malebo-movies.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODExNDE4OTZf/malebotvmovies.jpg",
   "categorie": "SPORTS"
-  }
+  },
+  "35":{
+  "id": "35",
+  "name": "NEPHTHALI TV",
+  "description": "1536",
+  "live_url": "https://stream.berosat.live:19360/nephtali-tv/nephtali-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODExNDI1NTVf/nmntv.jpg",
+  "categorie": "SPORTS"
+  } 
 }
 
 

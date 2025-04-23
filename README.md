@@ -271,6 +271,14 @@
   "live_url": "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg",
   "categorie": "SPORTS"
+  },
+  "34":{
+  "id": "35",
+  "name": "MALEBO MOVIES TV",
+  "description": "1535",
+  "live_url": "https://stream.berosat.live:19360/malebo-mmovies/malebo-movies.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODExNDE4OTZf/malebotvmovies.jpg",
+  "categorie": "SPORTS"
   }
 }
 

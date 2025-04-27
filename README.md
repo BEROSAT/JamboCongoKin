@@ -287,6 +287,14 @@
   "live_url": "https://stream.berosat.live:19360/nephtali-tv/nephtali-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODExNDI1NTVf/nmntv.jpg",
   "categorie": "SPORTS"
+  },
+  "36":{
+  "id": "36",
+  "name": "LA BORNE MPASA TV",
+  "description": "1537",
+  "live_url": "https://stream.berosat.live:19360/borne-mpasa-tv/borne-mpasa-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODEyNTk4NjFf/bornetv.jpg",
+  "categorie": "SPORTS"
   } 
 }
 

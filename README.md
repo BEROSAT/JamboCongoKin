@@ -281,7 +281,7 @@
   "categorie": "SPORTS"
   },
   "35":{
-  "id": "35",
+  "id": "36",
   "name": "NEPHTHALI TV",
   "description": "1536",
   "live_url": "https://stream.berosat.live:19360/nephtali-tv/nephtali-tv.m3u8",
@@ -289,11 +289,11 @@
   "categorie": "SPORTS"
   },
   "36":{
-  "id": "36",
-  "name": "LA BORNE MPASA TV",
-  "description": "1537",
-  "live_url": "https://stream.berosat.live:19360/borne-mpasa-tv/borne-mpasa-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODEyNTk4NjFf/bornetv.jpg",
+  "id": "37",
+  "name": "FIDEDI MOVIE TV",
+  "description": "37",
+  "live_url": "https://stream.berosat.live:19360/fidedi-movie-stream/fidedi-movie-stream.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODEyOTYzMDBf/fidediMovie.jpg",
   "categorie": "SPORTS"
   } 
 }

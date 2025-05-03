@@ -291,11 +291,35 @@
   "36":{
   "id": "37",
   "name": "FIDEDI MOVIE TV",
-  "description": "37",
+  "description": "1537",
   "live_url": "https://stream.berosat.live:19360/fidedi-movie-stream/fidedi-movie-stream.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODEyOTYzMDBf/fidediMovie.jpg",
   "categorie": "SPORTS"
-  } 
+  },
+  "37":{
+  "id": "38",
+  "name": "DESTINY CHANNEL",
+  "description": "1538",
+  "live_url": "https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg",
+  "categorie": "SPORTS"
+  },
+  "38":{
+  "id": "39",
+  "name": "MALEBO MOVIES TV",
+  "description": "1539",
+  "live_url": "https://stream.berosat.live:19360/malebo-movies/malebo-movies.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODExNDE4OTZf/malebotvmovies.jpg",
+  "categorie": "SPORTS"
+  },
+  "39":{
+  "id": "40",
+  "name": "RTV MASONGA",
+  "description": "1540",
+  "live_url": "https://stream.berosat.live:19360/rtv-masonga/rtv-masonga.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODEzNTQ5OTRf/masongatv.jpg",
+  "categorie": "SPORTS"
+  }
 }
 
 

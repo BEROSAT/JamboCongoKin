@@ -306,10 +306,10 @@
   },
   "38":{
   "id": "39",
-  "name": "MALEBO MOVIES TV",
+  "name": "COBLA TV",
   "description": "1539",
-  "live_url": "https://stream.berosat.live:19360/malebo-movies/malebo-movies.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODExNDE4OTZf/malebotvmovies.jpg",
+  "live_url": "https://stream.berosat.live:19360/cobla-tv-stream/cobla-tv-stream.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODEzODc0NDFf/coblatv.jpg",
   "categorie": "SPORTS"
   },
   "39":{
@@ -318,6 +318,38 @@
   "description": "1540",
   "live_url": "https://stream.berosat.live:19360/rtv-masonga/rtv-masonga.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODEzNTQ5OTRf/masongatv.jpg",
+  "categorie": "SPORTS"
+  },
+  "40":{
+  "id": "41",
+  "name": "TELE EGLISE HD",
+  "description": "1541",
+  "live_url": "https://stream.berosat.live:19360/tele-eglise-hd/tele-eglise-hd.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODEzNjYxMzFf/TeleEglise.jpg",
+  "categorie": "SPORTS"
+  },
+  "41":{
+  "id": "42",
+  "name": "GOSPEL LIVE HD",
+  "description": "1542",
+  "live_url": "https://stream.berosat.live:19360/gospel-live-hd/gospel-live-hd.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODE0MzY0MTlf/gospelLiveHD.png",
+  "categorie": "SPORTS"
+  },
+  "42":{
+  "id": "43",
+  "name": "FOLK TV",
+  "description": "1543",
+  "live_url": "https://stream.berosat.live:19360/folk-tv-stream/folk-tv-stream.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODEzODc3MDdf/Folktv.jpg",
+  "categorie": "SPORTS"
+  },
+  "43":{
+  "id": "44",
+  "name": "MGS TV",
+  "description": "1544",
+  "live_url": "https://stream.berosat.live:19360/mgs-tv/mgs-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODEyNDc1ODFf/mgstele.jpg",
   "categorie": "SPORTS"
   }
 }

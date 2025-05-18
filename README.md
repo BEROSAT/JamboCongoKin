@@ -282,10 +282,10 @@
   },
   "35":{
   "id": "36",
-  "name": "NEPHTHALI TV",
+  "name": "LA REUNION TV",
   "description": "1536",
-  "live_url": "https://stream.berosat.live:19360/nephtali-tv/nephtali-tv.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODExNDI1NTVf/nmntv.jpg",
+  "live_url": "https://stream.berosat.live:19360/lareunion-tv-stream/lareunion-tv-stream.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODE2MTg0OTdf/lareunion.png",
   "categorie": "SPORTS"
   },
   "36":{
@@ -351,7 +351,23 @@
   "live_url": "https://stream.berosat.live:19360/mgs-tv/mgs-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODEyNDc1ODFf/mgstele.jpg",
   "categorie": "SPORTS"
-  }
+  },
+  "44":{
+  "id": "45",
+  "name": "LE MONDE EN 24H",
+  "description": "1545",
+  "live_url": "https://stream.berosat.live:19360/monde24h-tv-index/monde24h-tv-index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg",
+  "categorie": "SPORTS"
+  },
+  "45":{
+  "id": "46",
+  "name": "NOUR TV",
+  "description": "1546",
+  "live_url": "https://stream.berosat.live:19360/nour-tv-index/nour-tv-index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODE2MTkxNTVf/nourtv.jpg",
+  "categorie": "SPORTS"
+  } 
 }
 
 
